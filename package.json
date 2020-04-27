@@ -1,0 +1,26 @@
+{
+  "name": "ejs_templating",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varshakasar/ejs_templating.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varshakasar/ejs_templating/issues"
+  },
+  "homepage": "https://github.com/varshakasar/ejs_templating#readme",
+  "dependencies": {
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "nodemailer": "^6.4.6",
+    "path": "^0.12.7"
+  }
+}
